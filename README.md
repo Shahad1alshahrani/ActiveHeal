@@ -40,7 +40,7 @@ The project followed a Human-Centered Design approach:
 
 ## Project Poster
 
-[View Project Poster](Hci.pdf)
+[View Project Poster](ActiveHeal-Poster.pdf)
 
 ## Project Type
 
