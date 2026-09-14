@@ -8,14 +8,11 @@ ActiveHeal is an HCI project focused on designing a user-centered mobile rehabil
 
 ## Interface Preview
 
-### Exercise Guidance
-![Exercise Screen](exercise-screen.png)
-
-### Progress Tracking
-![Progress Screen](progress-screen.png)
-
-### AI Chat
-![AI Chat Screen](ai-chat-screen.png)
+<p align="center">
+  <img src="exercise-screen.png" width="220">
+  <img src="progress-screen.png" width="220">
+  <img src="ai-chat-screen.png" width="220">
+</p>
 
 ## Key Features
 
