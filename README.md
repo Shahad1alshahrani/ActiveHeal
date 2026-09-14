@@ -6,6 +6,17 @@ A mobile rehabilitation support system designed to improve patient adherence, pr
 
 ActiveHeal is an HCI project focused on designing a user-centered mobile rehabilitation experience. The system supports patients throughout their rehabilitation journey through exercise guidance, progress monitoring, reminders, therapist communication, and AI-assisted support.
 
+## Interface Preview
+
+### Exercise Guidance
+![Exercise Screen](exercise-screen.png)
+
+### Progress Tracking
+![Progress Screen](progress-screen.png)
+
+### AI Chat
+![AI Chat Screen](ai-chat-screen.png)
+
 ## Key Features
 
 - Exercise tracking
