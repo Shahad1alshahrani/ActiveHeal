@@ -36,7 +36,7 @@ The project followed a Human-Centered Design approach:
 
 ## Interactive Prototype
 
-[View ActiveHeal Prototype](https://frame-prize-68881232.figma.site/app/exercise/2)
+[View ActiveHeal Prototype](https://frame-prize-68881232.figma.site)
 
 ## Project Poster
 
